@@ -1,0 +1,6 @@
+dash==2.18.0
+plotly==5.24.0
+numpy==1.25.0
+pyXSteam==0.4.9
+gunicorn
+
